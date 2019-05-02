@@ -18,13 +18,14 @@
 |百度浏览器|:arrow_up_small:|Android|正在访问高危网站|提示关闭||
 |Flyme浏览器|珠海市魅族科技有限公司|Android||||
 |猎豹浏览器|猎豹移动|Android|扫黄打非警告|屏蔽||
-|MIUI浏览器|北京小米科技有限责任公司|Android||||
+|MIUI浏览器|北京小米科技有限责任公司|Android|根据国家有关规定，该页面禁止访问|屏蔽||
 |欧朋浏览器|北界无限（北京）软件有限公司|Android|白屏|白屏||
 |OPPO内置浏览器（ColorOS）|广东欧珀移动通信有限公司|Android|根据国家有关规定，该页面禁止访问|屏蔽|[p1](https://github.com/996browser/996.BROWSER/blob/master/screenshots/oppo_mobile_1.jpg)|
 |QQ浏览器|深圳市腾讯计算机系统有限公司|Android|风险网址提醒|屏蔽||
 |QQ浏览器|:arrow_up_small:|Windows|您所访问的网站包含欺诈信息|屏蔽||
 |搜狗浏览器|北京搜狗科技发展有限公司|Android||屏蔽||
 |UC浏览器|阿里巴巴文化娱乐集团|Android|出错啦！|屏蔽||
+|夸克浏览器|广州市动景计算机科技有限公司|Android|根据国家有关规定，该页面禁止访问|屏蔽||
 
 ## 不屏蔽`996.icu`的浏览器列表
 
@@ -38,4 +39,3 @@
 |Opera|Opera Software|Windows、Android|https://www.opera.com/zh-cn/download|
 |Safari|Apple Inc.|iPhone、iPad、Mac|系统自带|
 |Yandex|Yandex Inc.|Android|https://play.google.com/store/apps/details?id=com.yandex.browser|
-|夸克浏览器|广州市动景计算机科技有限公司|Android|https://www.myquark.cn/|
